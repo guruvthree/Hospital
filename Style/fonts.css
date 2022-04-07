@@ -1,0 +1,45 @@
+@font-face{
+    src:url(fonts/Roboto-Regular.ttf);
+    font-family: HPRegular;
+}
+
+@font-face{
+    src:url(fonts/Roboto-Bold.ttf);
+    font-family: HPBold;
+}
+
+@font-face{
+    src:url(fonts/Roboto-Italic.ttf);
+    font-family: HPItalic;
+}
+
+@font-face{
+    src:url(fonts/Roboto-Thin.ttf);
+    font-family: HPThin;
+}
+
+@font-face{
+    src:url(fonts/Roboto-Medium.ttf);
+    font-family: HPMedium;
+}
+
+@font-face{
+    src:url(fonts/Roboto-Light.ttf);
+    font-family: HPLight;
+}
+
+@font-face{
+    src:url(fonts/Roboto-Black.ttf);
+    font-family: HPBlack;
+}
+
+@font-face{
+    src:url(fonts/Roboto-Condensed.ttf);
+    font-family: HPCondensed;
+}
+
+@font-face{
+    src:url(fonts/EuphoriaScript-Regular.ttf);
+    font-family: HPScript;
+}
+
